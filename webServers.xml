@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e6479108-4ee7-4dd5-8ee0-1627d1c57502" name="Moment 1" url="http://localhost/dt093g">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="e8f0d011-28d5-465c-a1a0-c0bfd7306d3c" name="Localhost" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
